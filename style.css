@@ -1,0 +1,23 @@
+img{
+    height: 15% ;
+    width: 10%;
+    
+}
+h1{
+    font-family: 'Acme', sans-serif;
+}
+body{
+    background-color: #ffddd2;
+}
+h3{
+    font-family: 'Spartan', sans-serif;
+    color: #e29578;
+
+}
+h1{
+    color: #006d77;
+}
+h5{
+    color: #006d77;
+    font-family:'Spartan', sans-serif; ;
+}
